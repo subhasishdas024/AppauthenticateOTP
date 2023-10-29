@@ -1,8 +1,4 @@
-Simple Application samples such as Login, OTP Input, Tab bar, Custom Texts, Custom Colours etc with scalable folder structure.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+Simple Flutter Application such as Login, OTP Input, Tab bar, Custom Texts, Custom Colours etc with folder.
 
 ## Useful commands
 
